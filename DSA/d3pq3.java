@@ -1,6 +1,6 @@
 package DSA;
 // transpose of a matrix
-public class d3pq3 {
+public class D3pq3 {
 
     public static int[][] transposeMatrix(int matrix[][]) {
         int n = matrix.length;

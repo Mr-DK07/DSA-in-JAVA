@@ -2,7 +2,7 @@ package DSA;
 
 import java.util.*;
 
-public class c2inbuiltSort {
+public class C2inbuiltSort {
 
     public static void printSortedArray(Integer arr[]) {
         for (int i = 0; i < arr.length; i++) {

@@ -1,6 +1,6 @@
 package DSA;
 
-public class c1SubArray {
+public class C1SubArray {
 
     public static void printSubArrays(int numbers[]){
         int ts = 0;

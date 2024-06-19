@@ -1,6 +1,6 @@
 package DSA;
 
-public class c1PairOfArray {
+public class C1PairOfArray {
 
     public static void printPair(int numbers[]){
         int tp = 0;

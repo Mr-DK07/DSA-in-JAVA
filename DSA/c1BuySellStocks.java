@@ -1,6 +1,6 @@
 package DSA;
 
-public class c1BuySellStocks {
+public class C1BuySellStocks {
 
    public static int buyAndSellStocks(int prices[]){
       int buyPrice = Integer.MAX_VALUE;

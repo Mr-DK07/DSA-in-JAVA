@@ -1,7 +1,7 @@
 package DSA;
 
 // Reverse an array
-public class c1RevArray {
+public class C1RevArray {
 
     public static void reverse(int numbers[]) {
         int first = 0;

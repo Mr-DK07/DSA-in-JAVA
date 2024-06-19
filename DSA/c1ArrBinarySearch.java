@@ -1,6 +1,6 @@
 package DSA;
 
-public class c1ArrBinarySearch {
+public class C1ArrBinarySearch {
     public static int BinarySearch(int numbers[], int key){
         int start = 0;
         int end = numbers.length-1;

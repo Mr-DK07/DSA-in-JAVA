@@ -1,6 +1,6 @@
 package DSA;
 
-public class c1ArrLinearSearch {
+public class C1ArrLinearSearch {
 
     public static int LinearSearch(int numbers[], int key){
 

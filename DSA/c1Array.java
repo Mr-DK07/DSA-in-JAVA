@@ -2,7 +2,7 @@ package DSA;
 
 import java.util.Scanner;
 
-public class c1Array {
+public class C1Array {
     public static void main(String[] args) {
         int marks[] = new int[10];
         Scanner sc = new Scanner(System.in);

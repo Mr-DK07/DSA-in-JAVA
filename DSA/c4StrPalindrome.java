@@ -2,7 +2,7 @@ package DSA;
 
 import java.util.Scanner;
 
-public class c4StrPalindrome {
+public class C4StrPalindrome {
 
     public static boolean checkPalindrome(String str){
         int n = str.length();

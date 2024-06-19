@@ -1,6 +1,6 @@
 package DSA;
 
-public class c4ShortestPath {
+public class C4ShortestPath {
     public static float ShortestDist(String path) {
         int x = 0, y = 0;
         for (int i = 0; i < path.length(); i++) {

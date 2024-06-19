@@ -1,6 +1,6 @@
 package DSA;
 
-public class c1TrapRainWater {
+public class C1TrapRainWater {
 
     public static int trappedRainWater(int height[]) {
         // calculate left max boundary - array

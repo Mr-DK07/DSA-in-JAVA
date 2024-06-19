@@ -1,6 +1,6 @@
 package DSA;
 
-public class c4StrCompare {
+public class C4StrCompare {
     public static void main(String[] args) {
         String str = "Tony";
         String str1 = "Tony";

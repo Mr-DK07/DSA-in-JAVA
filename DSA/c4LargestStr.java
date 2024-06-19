@@ -1,6 +1,6 @@
 package DSA;
 
-public class c4LargestStr {
+public class C4LargestStr {
     public static void main(String[] args) {
         String fruits[] = { "apple", "mango", "banana" };
 

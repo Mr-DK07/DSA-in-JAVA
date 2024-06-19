@@ -1,6 +1,6 @@
 package DSA;
 
-public class c3SpiralMatrix {
+public class C3SpiralMatrix {
 
     public static void spiralMatrix(int matrix[][]) {
         int startRow = 0;

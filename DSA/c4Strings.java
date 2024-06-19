@@ -2,7 +2,7 @@ package DSA;
 
 import java.util.Scanner;
 
-public class c4Strings {
+public class C4Strings {
     public static void main(String[] args) {
         // char arr[] = {'a', 'b', 'c', 'd'};
         String str = "abcd";

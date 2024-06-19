@@ -1,6 +1,6 @@
 package DSA;
 
-public class c3DiagonalSum {
+public class C3DiagonalSum {
 
     public static int diagonalSum(int matrix[][]){
         int sum = 0;

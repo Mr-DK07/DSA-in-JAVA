@@ -1,6 +1,6 @@
 package DSA;
 
-public class c2SelectionSort {
+public class C2SelectionSort {
 
     public static void SelectionSort(int arr[]) {
         for (int i = 0; i < arr.length - 1; i++) {

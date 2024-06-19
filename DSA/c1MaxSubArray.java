@@ -1,6 +1,6 @@
 package DSA;
 
-public class c1MaxSubArray {
+public class C1MaxSubArray {
     public static void printSubArrays(int numbers[]) {
 
         int sum = 0;

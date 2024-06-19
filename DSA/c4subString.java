@@ -1,6 +1,6 @@
 package DSA;
 
-public class c4subString {
+public class C4subString {
 
     public static String printSubString(String str, int si, int ei) {
         String substr = "";

@@ -1,6 +1,6 @@
 package DSA;
 
-public class c2InsertionSort {
+public class C2InsertionSort {
 
     public static void InsertionSort(int arr[]) {
         for (int i = 1; i < arr.length; i++) {

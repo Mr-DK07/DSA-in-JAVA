@@ -1,6 +1,6 @@
 package DSA;
 
-public class c1Array1 {
+public class C1Array1 {
 
     public static void update(int marks[]){
         for(int i=0; i<marks.length; i++){

@@ -1,6 +1,6 @@
 package DSA;
 
-public class c2CountSort {
+public class C2CountSort {
 
     public static void CountSort(int arr[]) {
         int largest = Integer.MIN_VALUE;

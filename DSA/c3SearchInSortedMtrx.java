@@ -1,6 +1,6 @@
 package DSA;
 
-public class c3SearchInSortedMtrx {
+public class C3SearchInSortedMtrx {
     public static boolean staircaseSearch(int matrix[][], int key){
         int i=0, j=matrix[0].length-1;
         while(i<matrix.length && j >=0){

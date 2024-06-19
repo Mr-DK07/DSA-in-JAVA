@@ -2,7 +2,7 @@ package DSA;
 
 //import java.util.*;
 //Smallest and Largest in Array
-public class c1LargeNoInArray {
+public class C1LargeNoInArray {
 
     public static int getSmallest(int numbers[]) {
         int Smallest = Integer.MAX_VALUE; // +infinity
