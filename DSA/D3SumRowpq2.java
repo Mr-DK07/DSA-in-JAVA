@@ -1,4 +1,4 @@
-public class D3pq2 {
+public class D3SumRowpq2 {
     // calculate sum of second row
     public static int sumRow(int matrix[][]){
         int sum = 0;

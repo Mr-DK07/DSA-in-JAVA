@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class D4pq1 {
+public class D4CountVowelpq1 {
 
     public static int countVowel(String str){
         int count = 0;

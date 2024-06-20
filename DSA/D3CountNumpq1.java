@@ -1,5 +1,5 @@
 // count 7 in given matrix
-public class D3pq1 {
+public class D3CountNumpq1 {
     public static int countNum(int matrix[][], int key) {
         int count = 0;
         for (int i = 0; i < matrix.length; i++) {

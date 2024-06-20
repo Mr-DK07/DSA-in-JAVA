@@ -1,5 +1,5 @@
 // transpose of a matrix
-public class D3pq3 {
+public class D3TranspMatrixpq3 {
 
     public static int[][] transposeMatrix(int matrix[][]) {
         int n = matrix.length;
