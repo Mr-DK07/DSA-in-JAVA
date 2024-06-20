@@ -1,5 +1,3 @@
-package DSA;
-
 //import java.util.*;
 //Smallest and Largest in Array
 public class C1LargeNoInArray {

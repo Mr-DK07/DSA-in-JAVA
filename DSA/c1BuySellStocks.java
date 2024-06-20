@@ -1,5 +1,3 @@
-package DSA;
-
 public class C1BuySellStocks {
 
    public static int buyAndSellStocks(int prices[]){

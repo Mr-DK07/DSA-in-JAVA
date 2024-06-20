@@ -1,5 +1,3 @@
-package DSA;
-
 public class C1TrapRainWater {
 
     public static int trappedRainWater(int height[]) {

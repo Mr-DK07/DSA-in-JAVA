@@ -1,5 +1,3 @@
-package DSA;
-
 public class C4Uppercase {
 
     public static String toUpperCase(String str){

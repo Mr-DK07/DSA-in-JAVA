@@ -1,5 +1,3 @@
-package DSA;
-
 public class C1ArrBinarySearch {
     public static int BinarySearch(int numbers[], int key){
         int start = 0;

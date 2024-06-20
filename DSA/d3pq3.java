@@ -1,4 +1,3 @@
-package DSA;
 // transpose of a matrix
 public class D3pq3 {
 

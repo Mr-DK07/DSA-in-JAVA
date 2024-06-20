@@ -1,4 +1,3 @@
-package DSA;
 public class D3pq2 {
     // calculate sum of second row
     public static int sumRow(int matrix[][]){

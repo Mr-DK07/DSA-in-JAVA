@@ -1,5 +1,3 @@
-package DSA;
-
 public class C1MaxSubArray {
     public static void printSubArrays(int numbers[]) {
 

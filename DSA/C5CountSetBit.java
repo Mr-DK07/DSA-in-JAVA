@@ -1,5 +1,3 @@
-package DSA;
-
 public class C5CountSetBit {
 
     public static int countSetBit(int n){

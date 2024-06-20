@@ -1,5 +1,3 @@
-package DSA;
-
 public class C5bitMani {
     public static void main(String[] args) {
         System.out.println(5 & 6);

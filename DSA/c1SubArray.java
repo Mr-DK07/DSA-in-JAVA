@@ -1,5 +1,3 @@
-package DSA;
-
 public class C1SubArray {
 
     public static void printSubArrays(int numbers[]){

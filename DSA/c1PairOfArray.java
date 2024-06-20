@@ -1,5 +1,3 @@
-package DSA;
-
 public class C1PairOfArray {
 
     public static void printPair(int numbers[]){

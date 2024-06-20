@@ -1,5 +1,3 @@
-package DSA;
-
 public class C3SearchInSortedMtrx {
     public static boolean staircaseSearch(int matrix[][], int key){
         int i=0, j=matrix[0].length-1;

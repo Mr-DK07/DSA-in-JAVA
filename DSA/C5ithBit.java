@@ -1,5 +1,3 @@
-package DSA;
-
 public class C5ithBit {
 
     public static int GetIthBit(int n, int i) {

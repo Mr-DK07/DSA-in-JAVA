@@ -1,5 +1,3 @@
-package DSA;
-
 public class C5OddEven {
 
     public static void OddEven(int n) {

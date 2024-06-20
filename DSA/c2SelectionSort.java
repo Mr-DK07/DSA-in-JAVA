@@ -1,5 +1,3 @@
-package DSA;
-
 public class C2SelectionSort {
 
     public static void SelectionSort(int arr[]) {

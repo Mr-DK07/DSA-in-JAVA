@@ -1,5 +1,3 @@
-package DSA;
-
 public class C1ArrLinearSearch {
 
     public static int LinearSearch(int numbers[], int key){

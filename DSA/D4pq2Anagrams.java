@@ -1,5 +1,3 @@
-package DSA;
-
 import java.util.Arrays;
 
 public class D4pq2Anagrams {

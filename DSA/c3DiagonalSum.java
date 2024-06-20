@@ -1,5 +1,3 @@
-package DSA;
-
 public class C3DiagonalSum {
 
     public static int diagonalSum(int matrix[][]){

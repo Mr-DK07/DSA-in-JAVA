@@ -1,5 +1,3 @@
-package DSA;
-
 public class C1Array1 {
 
     public static void update(int marks[]){

@@ -1,5 +1,3 @@
-package DSA;
-
 public class C2CountSort {
 
     public static void CountSort(int arr[]) {

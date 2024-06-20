@@ -1,4 +1,3 @@
-package DSA;
 // count 7 in given matrix
 public class D3pq1 {
     public static int countNum(int matrix[][], int key) {

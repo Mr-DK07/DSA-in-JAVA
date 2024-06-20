@@ -1,5 +1,3 @@
-package DSA;
-
 public class C4StrCompare {
     public static void main(String[] args) {
         String str = "Tony";

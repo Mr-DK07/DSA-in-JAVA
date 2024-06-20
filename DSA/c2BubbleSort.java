@@ -1,5 +1,3 @@
-package DSA;
-
 public class C2BubbleSort {
 
     public static void bubbleSort(int arr[]) {

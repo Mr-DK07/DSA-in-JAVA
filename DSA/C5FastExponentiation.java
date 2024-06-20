@@ -1,5 +1,3 @@
-package DSA;
-
 public class C5FastExponentiation {
 
     public static int fastExpo(int a, int n) {

@@ -1,5 +1,3 @@
-package DSA;
-
 public class C4ShortestPath {
     public static float ShortestDist(String path) {
         int x = 0, y = 0;

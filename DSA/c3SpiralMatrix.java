@@ -1,5 +1,3 @@
-package DSA;
-
 public class C3SpiralMatrix {
 
     public static void spiralMatrix(int matrix[][]) {

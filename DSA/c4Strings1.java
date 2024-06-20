@@ -1,5 +1,3 @@
-package DSA;
-
 public class c4Strings1 {
     public static void printLetters(String str){
         for(int i=0; i<str.length(); i++){

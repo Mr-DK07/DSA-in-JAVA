@@ -1,5 +1,3 @@
-package DSA;
-
 public class C4subString {
 
     public static String printSubString(String str, int si, int ei) {

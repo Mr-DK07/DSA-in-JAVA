@@ -1,5 +1,3 @@
-package DSA;
-
 // Reverse an array
 public class C1RevArray {
 

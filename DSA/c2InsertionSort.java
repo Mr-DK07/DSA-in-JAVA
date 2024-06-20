@@ -1,5 +1,3 @@
-package DSA;
-
 public class C2InsertionSort {
 
     public static void InsertionSort(int arr[]) {

@@ -1,5 +1,3 @@
-package DSA;
-
 public class C4StrCompression {
 
     public static String CompressString(String str){
