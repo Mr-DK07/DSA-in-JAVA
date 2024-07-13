@@ -1,0 +1,43 @@
+// 4 types of inheritance: Single level, Multilevel, hierarchial, hybrid
+
+public class C6Inheritance { 
+    public static void main(String[] args) {
+        Fish shark = new Fish();
+        shark.eat();
+
+        Dog dooby = new Dog();
+        dooby.breathe();
+        dooby.legs = 4;
+        System.out.println(dooby.legs);
+    }
+}
+
+class Animal {
+    String color;
+
+    void eat() {
+        System.out.println("eat");
+    }
+
+    void breathe() {
+        System.out.println("breathe");
+    }
+}
+
+// Multilevel inheritance and hierarchial
+
+class Fish extends Animal {
+    int fins;
+
+    void swim() {
+        System.out.println("swims");
+    }
+}
+
+class Mammal extends Animal {
+    int legs;
+}
+
+class Dog extends Mammal {
+    String breed;
+}
