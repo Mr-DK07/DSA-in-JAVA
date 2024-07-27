@@ -23,11 +23,11 @@ public class C9rotatedSArray {
         }
         // mid on L2
         else {
-            // left part
+            // right part
             if (arr[mid] <= tar && tar <= arr[ei]) {
                 return search(arr, tar, mid + 1, ei);
             } else {
-                // right part
+                // left part
                 return search(arr, tar, si, mid - 1);
             }
         }
