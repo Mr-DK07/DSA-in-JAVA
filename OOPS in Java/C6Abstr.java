@@ -1,4 +1,4 @@
-public class C6Abstraction {
+public class C6Abstr {
     public static void main(String[] args) {
         Horse h = new Horse();
         h.eat();

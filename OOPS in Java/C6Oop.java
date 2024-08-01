@@ -1,4 +1,4 @@
-public class C6Oops {
+public class C6Oop {
     public static void main(String[] args) {
         Pen p1 = new Pen();
 

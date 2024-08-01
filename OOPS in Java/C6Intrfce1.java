@@ -1,4 +1,4 @@
-public class C6Interface1 {
+public class C6Intrfce1 {
     public static void main(String[] args) {
         Bear b = new Bear();
         b.eatMeat();

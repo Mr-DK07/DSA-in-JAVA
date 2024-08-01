@@ -1,4 +1,4 @@
-public class C6Polymorphism {
+public class C6PlyMorfsm {
 
     // Method Overloading : Compile time Polymorphism
     public static void main(String[] args) {

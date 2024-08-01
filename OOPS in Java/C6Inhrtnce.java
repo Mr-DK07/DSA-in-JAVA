@@ -1,6 +1,6 @@
 // 4 types of inheritance: Single level, Multilevel, hierarchial, hybrid
 
-public class C6Inheritance { 
+public class C6Inhrtnce { 
     public static void main(String[] args) {
         Fish shark = new Fish();
         shark.eat();

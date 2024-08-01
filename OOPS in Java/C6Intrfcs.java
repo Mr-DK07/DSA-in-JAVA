@@ -1,4 +1,4 @@
-public class C6Interfaces {
+public class C6Intrfcs {
     // Multiple Inheritance
     public static void main(String[] args) {
         Queen q = new Queen();

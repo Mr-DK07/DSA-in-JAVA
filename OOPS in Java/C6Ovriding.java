@@ -1,4 +1,4 @@
-public class C6Overriding {
+public class C6Ovriding {
 
     // Method Overriding : Run time Polymorphism
     public static void main(String[] args) {

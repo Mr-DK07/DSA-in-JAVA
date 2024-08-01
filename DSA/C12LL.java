@@ -1,4 +1,4 @@
-public class C12LinkedList {
+public class C12LL {
 
     public class Node {
         int data;
@@ -239,7 +239,7 @@ public class C12LinkedList {
     }
 
     public static void main(String[] args) {
-        C12LinkedList ll = new C12LinkedList();
+        C12LL ll = new C12LL();
 
         ll.addFirst(1);
         ll.addLast(2);

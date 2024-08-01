@@ -1,4 +1,4 @@
-public class C6Constructor {
+public class C6Const {
     public static void main(String[] args) {
         Student s1 = new Student();
         s1.name = "Dev";

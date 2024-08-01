@@ -1,5 +1,4 @@
-import java.util.Deque;
-import java.util.LinkedList;
+import java.util.*;
 
 public class C14Deque {
     public static void main(String[] args) {
