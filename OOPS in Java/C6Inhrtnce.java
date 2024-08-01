@@ -12,7 +12,7 @@ public class C6Inhrtnce {
     }
 }
 
-class Animal {
+class Anml {
     String color;
 
     void eat() {
@@ -26,7 +26,7 @@ class Animal {
 
 // Multilevel inheritance and hierarchial
 
-class Fish extends Animal {
+class Fish extends Anml {
     int fins;
 
     void swim() {
@@ -34,7 +34,7 @@ class Fish extends Animal {
     }
 }
 
-class Mammal extends Animal {
+class Mammal extends Anml {
     int legs;
 }
 

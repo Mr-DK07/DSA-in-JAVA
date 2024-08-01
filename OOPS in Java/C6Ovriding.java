@@ -7,7 +7,7 @@ public class C6Ovriding {
     }
 }
 
-class Animal {
+class Janwar {
     String color;
 
     void eat() {
@@ -19,7 +19,7 @@ class Animal {
     }
 }
 
-class Dear extends Animal{
+class Dear extends Janwar{
     void eat(){
         System.out.println("eat grass");
     }
