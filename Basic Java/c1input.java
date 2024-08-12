@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class c1input {
+public class C1input {
     public static void main(String args[]) {
             Scanner sc = new Scanner(System.in);
             int num1 = sc.nextInt();

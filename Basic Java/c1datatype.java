@@ -1,4 +1,4 @@
-public class c1datatype {
+public class C1datatype {
     public static void main(String[] args) {
         // byte b = 8; (1 byte) [-128 to 256]
         // boolean var = false; (1 byte) 

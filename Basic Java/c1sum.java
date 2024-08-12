@@ -1,4 +1,4 @@
-public class c1sum {
+public class C1sum {
    public static void main(String[] args) {
     // code to calculate sum.
     int a = 10;
