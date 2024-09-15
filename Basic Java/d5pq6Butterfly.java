@@ -1,6 +1,6 @@
 public class d5pq6Butterfly {
     public static void main(String[] args) {
-        int n = 8;
+        int n = 3;
         // 1st half
         for (int i = 1; i <= n; i++) {
             for (int j = 1; j <= i; j++) {               
@@ -16,7 +16,7 @@ public class d5pq6Butterfly {
         }
 
         // 2nd half
-        for (int i = n; i >= 1; i--) {
+        for (int i = n-1; i >= 1; i--) {
             for (int j = 1; j <= i; j++) {               
                 System.out.print("* ");               
             }
