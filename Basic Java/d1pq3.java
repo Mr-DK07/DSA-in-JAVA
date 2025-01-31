@@ -9,7 +9,6 @@ public class d1pq3 {
         float cost = pen+pencil+eraser; 
         float bill = cost+((cost*18)/100);
         System.out.println("Total bill is : " + bill);
-        sc.close();
-        
+        sc.close();    
     }
 }

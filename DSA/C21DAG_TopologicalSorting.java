@@ -1,7 +1,6 @@
-import java.util.ArrayList;
-import java.util.Stack;
+import java.util.*;
 
-public class C21DAG_TopologicalSorting {// DAG : Directed Acyclic Graph
+public class C21DAG_TopologicalSorting {// DAG : Directed Acyclic Graph using dfs
     static class Edge {
         int src;
         int dest;
