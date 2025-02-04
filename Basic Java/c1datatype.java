@@ -7,7 +7,7 @@ public class C1datatype {
         // int num = 25; (4 byte) [-2B to +2B]
         // float price = 10.5; (4 byte)
         // long => (8 byte) big no. of int datatype
-        // double => (8 byte) big no. of ifloat datatype
+        // double => (8 byte) big no. of float datatype
         
     }
 }
