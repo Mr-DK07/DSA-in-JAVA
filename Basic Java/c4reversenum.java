@@ -15,6 +15,5 @@ public class c4reversenum {
         }
         System.out.println(rev);
         sc.close();
-
     }
 }
