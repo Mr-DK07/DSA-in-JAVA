@@ -7,22 +7,22 @@ public class c4prime {
         System.out.print("Enter your no. :");
         int n = sc.nextInt();
 
-        if(n == 2){
+        if (n == 2) {
             System.out.println("This is a prime no.");
-        }else{
+        } else {
             boolean isPrime = true;
 
-        for(int i=2; i<=Math.sqrt(n); i++){
-            if(n % i == 0){
-                isPrime = false;
+            for (int i = 2; i <= Math.sqrt(n); i++) {
+                if (n % i == 0) {
+                    isPrime = false;
+                }
             }
-        }
-        if(isPrime == true){
+            if (isPrime == true) {
                 System.out.println("This is a prime no.");
-            }else{
+            } else {
                 System.out.println("This is not a prime no.");
             }
-        }      
+        }
         sc.close();
-    }  
+    }
 }
