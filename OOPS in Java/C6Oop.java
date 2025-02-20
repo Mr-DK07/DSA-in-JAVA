@@ -24,7 +24,7 @@ public class C6Oop {
 // Access Modifiers
 class BankAccount {
     public String userName;
-    public String Password;
+    private String Password;
 
     String getPassword() {
         return this.Password;
